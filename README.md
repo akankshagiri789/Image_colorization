@@ -1,1 +1,2 @@
-# Image_colorization
+# Image_colorization_project
+Image colorization is the process of adding realistic colors to grayscale or black-and-white images using computational techniques. Modern approaches, like neural networks and deep learning, enable automatic colorization by analyzing textures and features of images. Applications range from restoring historical photographs to enhancing visual content in creative fields.
